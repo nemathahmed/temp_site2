@@ -6,7 +6,7 @@ jsarr:
 - js/scripts.js
 ---
 
-<h1 id="cv-title"><a href="{{ site.url }}">Fred Hohman</a></h1>
+<h1 id="cv-title"><a href="{{ site.url }}">ShengYun Peng</a></h1>
 
 <p id="cv-subtitle"><i>Research Scientist (<span class="cv-ai">ML</span> + <span class="cv-vis">HCI</span>)</i></p>
 
@@ -38,12 +38,6 @@ I research how to enable <b><span class="cv-ai">machine learning interpretabilit
 <div>
 I have collaborated with researchers, designers, developers, and artists while working at Apple, Microsoft Research, NASA Jet Propulsion Lab, and Pacific Northwest National Lab.
 </div>
-
-<!-- <div class="cv-spacer"></div>
-
-<div>
-My research is supported by a NASA Space Technology Research Fellowship.
-</div> -->
 
 <div class="cv-spacer"></div>
 
