@@ -8,35 +8,16 @@ jsarr:
 
 <h1 id="cv-title"><a href="{{ site.url }}">ShengYun Peng</a></h1>
 
-<p id="cv-subtitle"><i>Research Scientist (<span class="cv-ai">ML</span> + <span class="cv-vis">HCI</span>)</i></p>
-
-<!-- <div id="cv-toc">
-<ul class="cv-description">
-	<li>Education</li>
-	<li>Industry Research</li>
-	<li>Academic Research</li>
-	<li>Honors and Awards</li>
-	<li>Publications</li>
-	<li>Talks</li>
-	<li>Press</li>
-	<li>Teaching</li>
-	<li>Mentoring</li>
-	<li>Grants and Funding</li>
-	<li>Interactive Articles</li>
-	<li>Service</li>
-	<li>Design</li>
-	<li>References</li>
-</ul>
-</div> -->
+<p id="cv-subtitle"><i>CS PhD (adversarial machine learning)</i></p>
 
 <div>
-I research how to enable <b><span class="cv-ai">machine learning interpretability</span></b> at scale and for everyone, by designing and developing interactive interfaces to help people confidently understand data-driven systems. Besides building tools, I also create <b><span class="cv-vis">data visualizations</span></b> and write interactive articles to simply communicate complex ideas.
+I research how to 
 </div>
 
 <div class="cv-spacer"></div>
 
 <div>
-I have collaborated with researchers, designers, developers, and artists while working at Apple, Microsoft Research, NASA Jet Propulsion Lab, and Pacific Northwest National Lab.
+I have collaborated with researchers, designers, developers, and artists while working at
 </div>
 
 <div class="cv-spacer"></div>
@@ -68,13 +49,14 @@ I have collaborated with researchers, designers, developers, and artists while w
 {% endfor %}
 {:/}
 
-## Industry Research Experience
+<!-- ## Industry Research Experience
 
 {% for experience in site.data.experiences %}
 {% if experience.type == 'industry' %}
 {% include cv/experience.html experience=experience %}
 {% endif %}
 {% endfor %}
+-->
 
 ## Academic Research Experience
 
