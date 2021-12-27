@@ -101,7 +101,7 @@ I have collaborated with researchers, designers, developers, and artists while w
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %}
 
-### Workshop
+<!-- ### Workshop
 
 {% assign workshop = site.categories.papers | where: 'type', "workshop" %}
 {% for pub in workshop %}
@@ -166,7 +166,7 @@ I have collaborated with researchers, designers, developers, and artists while w
 
 {% for article in site.data.articles %}
 {% include cv/article.html article=article %}
-{% endfor %}
+{% endfor %} -->
 
 <!-- ## Technology Skills
 
@@ -201,36 +201,17 @@ I have collaborated with researchers, designers, developers, and artists while w
 {% include cv/member.html member=member %}
 {% endfor %}
 
-## Design
+<!-- ## Design
 
 {% for design in site.data.designs %}
 {% include cv/design.html design=design %}
-{% endfor %}
+{% endfor %} -->
 
 ## References
 
 {% for reference in site.data.references %}
 {% include cv/reference.html reference=reference %}
 {% endfor %}
-
-<!-- 
-## Contact
-
-Fred Hohman  
-`fredhohman@gatech.edu`  
-CODA Tech Square  
-Georgia Tech  
-756 W Peachtree St NW  
-Atlanta, GA 30308
-<span style="background: linear-gradient(0deg, #34495e, #3498db); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: block">
-—  
-USA  
-Earth  
-Solar System  
-Milky Way  
-Local Group  
-Universe  
-</span> -->
 
 
 [cv]: {{ site.url }}/cv.pdf "My CV."
