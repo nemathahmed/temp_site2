@@ -6,3 +6,12 @@
   phd: true
   website: "cc.gatech.edu/~dchau/"
   url: "https://cc.gatech.edu/~dchau/"
+
+- name: Lei He
+  position: Professor
+  group: School of Electrical and Computer Engineering
+  institution: University of California, Los Angeles
+  location: Los Angeles, CA, USA
+  phd: true
+  website: "eda.ee.ucla.edu/people/faculty.html"
+  url: "http://eda.ee.ucla.edu/people/faculty.html"
