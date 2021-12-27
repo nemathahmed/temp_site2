@@ -176,7 +176,7 @@ I have collaborated with researchers, designers, developers, and artists while w
 
 ## Service
 
-<div class="cv-service-title"><b>Organizer</b></div>
+<!-- <div class="cv-service-title"><b>Organizer</b></div>
 {% for venue in site.data.organizer %}
 {% include cv/venue.html venue=venue %}
 {% endfor %}
@@ -186,14 +186,14 @@ I have collaborated with researchers, designers, developers, and artists while w
 {% include cv/venue.html venue=venue %}
 {% endfor %}
 
-<div class="cv-service-title"><b>Reviewer</b></div>
-{% for venue in site.data.reviewer %}
-{% include cv/venue.html venue=venue %}
-{% endfor %}
-
 <div class="cv-service-title"><b>Institutional</b></div>
 {% for institution in site.data.institutional %}
 {% include cv/institutional.html institution=institution %}
+{% endfor %} -->
+
+<div class="cv-service-title"><b>Reviewer</b></div>
+{% for venue in site.data.reviewer %}
+{% include cv/venue.html venue=venue %}
 {% endfor %}
 
 <div class="cv-service-title"><b>Member</b></div>

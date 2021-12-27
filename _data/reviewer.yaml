@@ -1,0 +1,10 @@
+- venue: Pattern Recognition
+  venue-shorthand: Pattern Recognit.
+  years:
+    - year: 2020
+      url: https://www.journals.elsevier.com/pattern-recognition
+
+- venue: IEEE Access
+  years:
+    - year: 2020
+      url: https://ieeeaccess.ieee.org/
