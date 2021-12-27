@@ -16,7 +16,7 @@ title: Home
     </div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-		My advisor is <a href="http://www.cc.gatech.edu/~dchau/">Polo Chau</a>, and group is <a href="http://poloclub.gatech.edu">Polo Club of Data Science</a>.
+		My advisor is <a href="http://www.cc.gatech.edu/~dchau/">Polo Chau</a>, and our group is <a href="http://poloclub.gatech.edu">Polo Club of Data Science</a>.
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
