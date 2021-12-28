@@ -66,6 +66,14 @@ title: Home
 	{% endfor %}
 </div>
 
+<h2 class="feature-title l-middle">
+	<a href="{{ site.url }}/everything-else" style="color: #303030">Everything Else</a>
+</h2>
+<div id="everything-else" class="l-middle">
+	<a href="{{ site.url }}/projects"><div>Projects</div></a>
+	<a href="{{ site.url }}/blog"><div>Blog</div></a>
+</div>
+
 
 [gt]: http://www.gatech.edu "Georgia Tech"
 [cse]: http://cse.gatech.edu "Georgia Tech Computational Science and Engineering"

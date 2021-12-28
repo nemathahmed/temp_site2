@@ -101,6 +101,13 @@ I have collaborated with researchers, designers, developers, and artists while w
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %}
 
+### Miscellaneous
+
+{% assign preprint = site.categories.papers | where: 'type', "misc" %}
+{% for pub in preprint %}
+{% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
+{% endfor %}
+
 <!-- ### Workshop
 
 {% assign workshop = site.categories.papers | where: 'type', "workshop" %}
@@ -119,13 +126,6 @@ I have collaborated with researchers, designers, developers, and artists while w
 
 {% assign demo = site.categories.papers | where: 'type', "demo" %}
 {% for pub in demo %}
-{% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
-{% endfor %}
-
-### Miscellaneous
-
-{% assign preprint = site.categories.papers | where: 'type', "misc" %}
-{% for pub in preprint %}
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %}
 
