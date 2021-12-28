@@ -57,6 +57,15 @@ title: Home
 <h2 class="feature-title l-middle">
 	Featured <a href="/cv#publications">Research Publications</a>
 </h2>
+<div class="cover-wrapper l-screen">
+	{% assign sortedPublications = site.categories.papers | sort: 'feature-order' %}
+	{% for feature in sortedPublications %}
+		{% if feature.featured == true %}
+			{% include feature.html feature=feature %}
+		{% endif %}
+	{% endfor %}
+</div>
+
 
 [gt]: http://www.gatech.edu "Georgia Tech"
 [cse]: http://cse.gatech.edu "Georgia Tech Computational Science and Engineering"
