@@ -2,27 +2,24 @@
   institution: Georgia Institute of Technology
   location: "Atlanta, GA"
   advisor: Duen Horng (Polo) Chau
-  years: "present —"
-  years-extra: "Jan. 2022"
+  years: "Jan. 2022 —"
+  years-extra: "present"
   institution-url: https://www.gatech.edu/
 
 - degree: "M.S. in Computational Science & Engineering"
   institution: Georgia Institute of Technology
   location: "Atlanta, GA"
-  years: "present —"
-  years-extra: "Jan. 2021"
+  years: "Jan. 2021 —"
+  years-extra: "present"
   institution-url: https://www.gatech.edu/
   description:
     - "GPA: 4.00/4.00"
 
 - degree: "B.Eng. in Civil Engineering"
-  years: "June 2020 —"
-  years-extra: "Sept. 2015"
+  years: "Sept. 2015 —"
+  years-extra: "June 2020"
   institution: Tongji University
   location: "Shanghai, China"
-#  thesis: "3D Printing the Trefoil Knot and its Pages"
-#  thesis-link: ../projects/3d-printing-the-trefoil-knot-and-its-pages/
-#  thesis-pdf: ../papers/fred-hohman-undergrad-thesis.pdf
   description:
     - "Overall GPA: 92.37/100, Outstanding Graduates Award of Shanghai, 2020"
   institution-url: https://en.tongji.edu.cn/

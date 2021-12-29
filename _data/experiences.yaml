@@ -1,0 +1,111 @@
+- institution: Georgia Institute of Technology
+  location: "Atlanta, GA"
+  position: Graduate Research Assistant
+  group: Polo Club of Data Science
+  year: "May 2021 —"
+  year-extra: "present"
+  mentors:
+    - Duen Horng (Polo) Chau
+  description: "Working on the DARPA Guaranteeing AI Robustness Against Deception (GARD) project"
+  institution-url: http://gatech.edu
+  group-url: https://poloclub.github.io/
+  type: academic
+
+- institution: University of California, Los Angeles
+  location: "Los Angeles, CA"
+  position: Undergraduate Research Assistant
+  group: Design Automation Lab
+  year: "July 2019 —"
+  year-extra: "Dec. 2019"
+  mentors:
+    - Lei He
+  description: "We proposed a novel anchor free tracker, which represented an object by a single point at bounding box center,
+  and other properties such as object size and local offsets were regressed directly from image features at the center location.
+  I simulated operation fusion, network slicing, and data quantization for tracking network in PyTorch. We also worked on
+  the deployment of trackers on FPGA boards with the assistance of an RTL based hand-coded FPGA overlay domain-specific processor unit (OPU)
+  with software programmability and fast compilation time, targeting at general CNN accelerations."
+  institution-url: https://www.ucla.edu/
+  group-url: http://eda.ee.ucla.edu/
+  type: academic
+
+- institution: Shanghai Jiao Tong University
+  location: "Shanghai, China"
+  position: Undergraduate Research Assistant
+  group: Advanced Avionics and Intelligent Information Lab
+  year: "July 2018 —"
+  year-extra: "Jan. 2020"
+  mentors:
+    - Gang Xiao
+  description: "We developed both pixel-level and feature-level visible and infrared fusion methods
+  based on Siamese networks, which solved tracking challenges like partial occlusion, low illumination.
+  The tracker ranked first on large-scale RGBT234 dataset."
+  institution-url: https://en.sjtu.edu.cn/
+  group-url: http://www.avionics.icoc.in/
+  type: academic
+
+- institution: Tongji University
+  location: "Shanghai, China"
+  position: Undergraduate Research Assistant
+  group: State Key Laboratory of Disaster Reduction in Civil Engineering
+  year: "Oct. 2017 —"
+  year-extra: "Aug. 2020"
+  mentors:
+    - Ying Zhou
+  description: "I proposed a novel and complete framework which obtained the natural frequency
+  and modes of vibration with a non-contact measurement method based on optical flow,
+  correlation filter and Siamese network with single UAV. We measured the displacements of a five-storey structure
+  and the errors of first order and the second order natural frequency were 0.09% and 1.01%, respectively.
+  We also verified the accuracy through the first shaking table test of a full scale low-damage
+  concrete wall building in the world at International Joint Research Laboratory of Earthquake Engineering,
+  and the mean squared error of UAV camera and linear variable differential transformers was below 4%"
+  institution-url: https://en.tongji.edu.cn/
+  group-url: http://www.ilee-tj.com/En/Data/View/813
+  type: academic
+
+- institution: Fudan University
+  location: "Shanghai, China"
+  position: Undergraduate Research Assistant
+  group: State Key Laboratory of Disaster Reduction in Civil Engineering
+  year: "Sept. 2020 —"
+  year-extra: "Dec. 2020"
+  mentors:
+    - Weidong Yang
+  description: "We developed a vision monitoring software to check the layout in cockpit,
+  and automatically verify the correctness of parameters in airspeed indicator, vertical
+  speed indicator, and attitude indicator."
+  institution-url: https://www.fudan.edu.cn/en/
+  group-url: https://datascience.fudan.edu.cn/
+  type: academic
+
+- institution: Chinese Academy of Sciences
+  location: "Beijing, China"
+  position: Undergraduate Research Assistant
+  group: Institute of Computing Technology
+  year: "June 2017 —"
+  year-extra: "Aug. 2017"
+  mentors:
+    - Chao Liu
+  description: "We built a Simulink model to simulate missile vertical launch and six-freedom
+  system for aircraft flight control. We also illustrated the changes in pitch angle and posture
+  adjustment with the involvement of PID control system when disturbed by atmosphere, aiming to
+  realize assistive and full-automatic flight path control."
+  institution-url: https://english.cas.cn/
+  group-url:  http://english.ict.cas.cn/
+  type: academic
+
+- institution: Tongji University
+  location: "Shanghai, China"
+  position: Undergraduate Research Assistant
+  group: School of Materials Science and Engineering
+  year: "Apr. 2017 —"
+  year-extra: "Apr. 2018"
+  mentors:
+    - Qianrong Yang
+  description: "We finished the mechanical design and manufacture of the 3D printer
+  with automatic pulp feeding systems, assisted by BIM to visualize construction process
+  and cost. I also performed sample rupture strength and tensile strength tests to modify
+  the working path in order to achieve the desired physical properties."
+  institution-url: https://en.tongji.edu.cn/
+  group-url: https://smse.tongji.edu.cn/English/Home.htm
+  type: academic
+
