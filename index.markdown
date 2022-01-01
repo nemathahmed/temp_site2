@@ -60,11 +60,20 @@ title: Home
 <div class="cover-wrapper l-screen">
 	{% assign sortedPublications = site.categories.papers | sort: 'feature-order' %}
 	{% for feature in sortedPublications %}
-		{% if feature.featured == true %}
-			{% include feature.html feature=feature %}
+		{% if feature.featured == true and feature.feature-order <= 4%}
+			    {% include feature.html feature=feature %}
 		{% endif %}
 	{% endfor %}
 </div>
+<div class="cover-wrapper l-screen">
+	{% assign sortedPublications = site.categories.papers | sort: 'feature-order' %}
+	{% for feature in sortedPublications %}
+		{% if feature.featured == true and feature.feature-order > 4%}
+			    {% include feature.html feature=feature %}
+		{% endif %}
+	{% endfor %}
+</div>
+
 
 <h2 class="feature-title l-middle">
 	<a href="{{ site.url }}/everything-else" style="color: #303030">Everything Else</a>
