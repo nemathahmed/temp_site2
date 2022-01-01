@@ -11,13 +11,19 @@ jsarr:
 <p id="cv-subtitle"><i>CS PhD (adversarial machine learning)</i></p>
 
 <div>
-I research how to 
+  I research how to defend the machine learning attacks.
 </div>
 
 <div class="cv-spacer"></div>
 
 <div>
-I have collaborated with researchers, designers, developers, and artists while working at
+  I have collaborated with researchers, developers, and scientists while working at 
+        <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/gatech.svg"> Georgia Tech, 
+        <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/intel.svg"> Intel Lab, 
+        <img class="intro-logo" style="width: 24px" src="/images/ucla.svg"> UCLA Design Automation Lab, 
+        <img class="intro-logo" style="width: 24px;" src="/images/tongji.svg"> Tongji International Joint Research Lab of Earthquake Engineering,
+        <img class="intro-logo" style="width: 24px;" src="/images/aaii.png"> Shanghai Jiao Tong University Advanced Avionics and Intelligent Information Lab,
+        and <img class="intro-logo" style="width: 24px;" src="/images/fudan.svg"> Fudan University.
 </div>
 
 <div class="cv-spacer"></div>
