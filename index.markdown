@@ -5,18 +5,18 @@ title: Home
 
 <div id ="intro-wrapper" class="l-middle">
 	<div id="intro-title-wrapper" class="intro-left">
-		<h1 id="intro-title">Hi, I'm ShengYun Peng.</h1>
+		<h1 id="intro-title">Hi, I'm Sheng-Yun (Anthony) Peng.</h1>
 		<div id="intro-subtitle">
-			I'm a CS PhD Student at Georgia Tech. You can call me Anthony.
+			I'm a CS PhD Student at Georgia Institue of Technology
 		</div>
 	</div>
 	<div class="intro-left">
 	<div class="intro-left">
-		I research how to defend the machine learning attacks.
+		I am an active member of <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/poloclub.png"> <a href="http://poloclub.gatech.edu">Polo Club of Data Science</a>, where we conduct research spanning across computer vision, machine learning, human-centered AI and data visualization. My advisor is <a href="http://www.cc.gatech.edu/~dchau/">Prof. Polo Chau</a>
     </div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-		My advisor is <a href="http://www.cc.gatech.edu/~dchau/">Polo Chau</a>, and our group is <a href="http://poloclub.gatech.edu">Polo Club of Data Science</a>.
+		My research focuses on adversarial machine learning. Currently, I am investigating how to defend the object detectors and object trackers against digital and physical attacks. 
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
