@@ -12,7 +12,7 @@ title: Home
 	</div>
 	<div class="intro-left">
 	<div class="intro-left">
-		I am an active member of <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/poloclub.png"> <a href="http://poloclub.gatech.edu">Polo Club of Data Science</a>, where we conduct research spanning across computer vision, machine learning, human-centered AI and data visualization. My advisor is <a href="http://www.cc.gatech.edu/~dchau/">Prof. Polo Chau</a>
+		I am an active member of <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/poloclub.png"> <a href="http://poloclub.gatech.edu">Polo Club of Data Science</a>, where we conduct research spanning across computer vision, machine learning, human-centered AI and data visualization. My advisor is <a href="http://www.cc.gatech.edu/~dchau/">Prof. Polo Chau</a>. 
     </div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
