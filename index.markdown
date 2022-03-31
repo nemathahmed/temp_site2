@@ -7,7 +7,7 @@ title: Home
 	<div id="intro-title-wrapper" class="intro-left">
 		<h1 id="intro-title">Hi, I'm Sheng-Yun (Anthony) Peng.</h1>
 		<div id="intro-subtitle">
-			I'm a CS PhD Student at Georgia Institue of Technology
+			CS PhD Student at Georgia Institue of Technology
 		</div>
 	</div>
 	<div class="intro-left">
