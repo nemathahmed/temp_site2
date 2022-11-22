@@ -1,12 +1,27 @@
+- institution: Intel Corporation
+  location: "Hillsboro, OR"
+  position: Graduate ML Security Intern
+  group: Security Solution Lab
+  year: "May 2022 — "
+  year-extra: "Aug. 2022"
+  mentors:
+    - Weilin Xu
+    - Jason Martin
+  description: "Worked on DARPA Guaranteeing AI Robustness Against Deception (GARD) project, and 
+  investigated how various architectural components improve DNN robustness against adversarial attacks."
+  institution-url: https://www.intel.com/content/www/us/en/homepage.html
+  group-url: https://www.intel.com/content/www/us/en/research/security-research.html
+  type: industry
+
 - institution: Georgia Institute of Technology
   location: "Atlanta, GA"
   position: Graduate Research Assistant
-  group: Polo Club of Data Science
+  group: School of Computer Science
   year: "May 2021 —"
   year-extra: "present"
   mentors:
     - Duen Horng (Polo) Chau
-  description: "Working on the DARPA Guaranteeing AI Robustness Against Deception (GARD) project"
+  description: "An active member of Polo Club of Data Science"
   institution-url: http://gatech.edu
   group-url: https://poloclub.github.io/
   type: academic

@@ -62,14 +62,14 @@ jsarr:
 {% endfor %}
 {:/}
 
-<!-- ## Industry Research Experience
+## Industry Research Experience
 
 {% for experience in site.data.experiences %}
 {% if experience.type == 'industry' %}
 {% include cv/experience.html experience=experience %}
 {% endif %}
 {% endfor %}
--->
+
 
 ## Academic Research Experience
 
@@ -114,31 +114,31 @@ jsarr:
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %}
 
-### Miscellaneous
-
-{% assign preprint = site.categories.papers | where: 'type', "misc" %}
-{% for pub in preprint %}
-{% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
-{% endfor %}
-
-<!-- ### Workshop
+### Workshop
 
 {% assign workshop = site.categories.papers | where: 'type', "workshop" %}
 {% for pub in workshop %}
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %}
 
-### Poster
+<!-- ### Poster
 
 {% assign poster = site.categories.papers | where: 'type', "poster" %}
 {% for pub in poster %}
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
-{% endfor %}
+{% endfor %} -->
 
 ### Demo
 
 {% assign demo = site.categories.papers | where: 'type', "demo" %}
 {% for pub in demo %}
+{% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
+{% endfor %}
+
+### Miscellaneous
+
+{% assign preprint = site.categories.papers | where: 'type', "misc" %}
+{% for pub in preprint %}
 {% include cv/publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %}
 
@@ -149,7 +149,7 @@ jsarr:
 {% include cv/talk.html talk=title %}
 {% endfor %}
 
-## Press
+<!-- ## Press
 
 {% for press in site.data.press %}
 {% include cv/press.html press=press %}
@@ -167,7 +167,7 @@ jsarr:
 {% for mentee in site.data.mentoring %}
 {% include cv/mentee.html mentee=mentee %}
 {% endfor %}
-{:/}
+{:/} -->
 
 ## Grants and Funding
 
@@ -175,7 +175,7 @@ jsarr:
 {% include cv/fund.html fund=fund %}
 {% endfor %}
 
-## Interactive Articles
+<!-- ## Interactive Articles
 
 {% for article in site.data.articles %}
 {% include cv/article.html article=article %}
