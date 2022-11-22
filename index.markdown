@@ -61,15 +61,17 @@ title: Home
 <div class="cover-wrapper l-screen">
 	{% assign sortedPublications = site.categories.papers | sort: 'feature-order' %}
 	{% for feature in sortedPublications %}
-		{% if feature.featured == true and feature.feature-order <= 4%}
+		{% if feature.featured == true and feature.feature-order > 3 and feature.feature-order <= 6 %}
 			    {% include feature.html feature=feature %}
 		{% endif %}
 	{% endfor %}
 </div>
+
+<div style="height: 1rem"></div>
 <div class="cover-wrapper l-screen">
 	{% assign sortedPublications = site.categories.papers | sort: 'feature-order' %}
 	{% for feature in sortedPublications %}
-		{% if feature.featured == true and feature.feature-order > 4%}
+		{% if feature.featured == true and feature.feature-order <= 3 %}
 			    {% include feature.html feature=feature %}
 		{% endif %}
 	{% endfor %}
