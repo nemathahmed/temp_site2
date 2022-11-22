@@ -6,17 +6,24 @@ jsarr:
 - js/scripts.js
 ---
 
-<h1 id="cv-title"><a href="{{ site.url }}">ShengYun Peng</a></h1>
+<h1 id="cv-title"><a href="{{ site.url }}">ShengYun (Anthony) Peng</a></h1>
 
-<p id="cv-subtitle"><i>CS PhD (adversarial machine learning)</i></p>
+<!-- <p id="cv-subtitle"><i>CS PhD (adversarial machine learning)</i></p> -->
 
+<div style="height: 1rem"></div>
 <div>
-  I research how to defend the machine learning attacks.
+	My research spans machine learning and computer vision. 
+	In particular, I have strong interests in building reliable algorithms and toolkits that understand, fortify and democratize AI security 
+	with an eye towards scalability and practicality in real-world settings. 
+	I am highly self-disciplined, strong risk-taking and fearlessness about working on novel approaches. 
+	I got praise from my internship mentors about willingness to review technical approaches, receive and incorporate feedback, 
+	and ask questions until understanding about reasoning behind mentor's recommendations. 
+	Most importantly, my positive energy level throughout the research career is exceptional and contagious to teammates.
 </div>
 
 <div class="cv-spacer"></div>
 
-<div>
+<!-- <div>
   I have collaborated with researchers, developers, and scientists while working at 
         <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/gatech.svg"> Georgia Tech, 
         <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/intel.svg"> Intel Lab, 
@@ -24,7 +31,7 @@ jsarr:
         <img class="intro-logo" style="width: 24px;" src="/images/tongji.svg"> Tongji International Joint Research Lab of Earthquake Engineering,
         <img class="intro-logo" style="width: 24px;" src="/images/aaii.png"> Shanghai Jiao Tong University Advanced Avionics and Intelligent Information Lab,
         and <img class="intro-logo" style="width: 24px;" src="/images/fudan.svg"> Fudan University.
-</div>
+</div> -->
 
 <div class="cv-spacer"></div>
 
