@@ -7,10 +7,10 @@
   cv-group: 1
 
 - id: email
-  description: "shengyun@gatech.edu"
+  description: "speng65@gatech.edu"
   color: "#515151"
   class: "fas fa-envelope icon"
-  url: "mailto:shengyun@gatech.edu"
+  url: "mailto:speng65@gatech.edu"
   on-homepage: true
   cv-group: 1
 
@@ -18,7 +18,7 @@
   description: "@anthonypeng"
   color: "#1da1f2"
   class: "fab fa-twitter icon"
-  url: https://twitter.com/Anthony89188307
+  url: https://twitter.com/RealAnthonyPeng
   on-homepage: true
   cv-group: 2
 

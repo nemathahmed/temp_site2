@@ -5,33 +5,34 @@ title: Home
 
 <div id ="intro-wrapper" class="l-middle">
 	<div id="intro-title-wrapper" class="intro-left">
-		<h1 id="intro-title">Hi, I'm Sheng-Yun (Anthony) Peng.</h1>
+		<h1 id="intro-title">Hi, I'm ShengYun (Anthony) Peng.</h1>
 		<div id="intro-subtitle">
 			CS PhD Student at Georgia Institue of Technology
 		</div>
 	</div>
 	<div class="intro-left">
 	<div class="intro-left">
-		I am an active member of <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/poloclub.png"> <a href="http://poloclub.gatech.edu">Polo Club of Data Science</a>, where we conduct research spanning across computer vision, machine learning, human-centered AI and data visualization. My advisor is <a href="http://www.cc.gatech.edu/~dchau/">Prof. Polo Chau</a>. 
+		I'm an active member of <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/poloclub.png"> <a href="http://poloclub.gatech.edu">Polo Club of Data Science</a> advised by <a href="http://www.cc.gatech.edu/~dchau/">Prof. Polo Chau</a>. 
     </div>
 	<div style="height: 1rem"></div>
 	<div class="intro-left">
-		My research focuses on adversarial machine learning. Currently, I am investigating how to defend the object detectors and object trackers against digital and physical attacks. 
+		My research spans machine learning and computer vision. In particular, I have strong interests in building reliable algorithms and toolkits that understand, fortify and democratize AI security with an eye towards scalability and practicality in real-world settings. 
+		<!-- focuses on adversarial machine learning. Currently, I am investigating how to defend the object detectors and object trackers against digital and physical attacks.  -->
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
 		I have collaborated with researchers, developers, and scientists while working at 
         <img class="intro-logo" style="width: 19px; padding-bottom: 5px;" src="/images/gatech.svg"> Georgia Tech, 
-        <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/intel.svg"> Intel Lab, 
+        <img class="intro-logo" style="width: 18px; padding-bottom: 3px;" src="/images/intel.svg"> Intel Security Solutions Lab, 
         <img class="intro-logo" style="width: 24px" src="/images/ucla.svg"> UCLA Design Automation Lab, 
-        <img class="intro-logo" style="width: 24px;" src="/images/tongji.svg"> Tongji International Joint Research Lab of Earthquake Engineering,
-        <img class="intro-logo" style="width: 24px;" src="/images/aaii.png"> Shanghai Jiao Tong University Advanced Avionics and Intelligent Information Lab,
+        <img class="intro-logo" style="width: 24px;" src="/images/tongji.svg"> Tongji University,
+        <img class="intro-logo" style="width: 24px;" src="/images/aaii.png"> Shanghai Jiao Tong University,
         and <img class="intro-logo" style="width: 24px;" src="/images/fudan.svg"> Fudan University.
 	</div>
 </div>
 
 <div class="intro-right">
-	<img id="intro-image" class="intro-right" src="/images/square.jpeg">
+	<img id="intro-image" class="intro-right" src="/images/2022-square.jpg">
 	<div style="height: 0.5rem"></div>
 	<div id="intro-image-links" class="intro-right">
 		{% for link in site.data.social-links %}
