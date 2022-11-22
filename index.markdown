@@ -82,8 +82,8 @@ title: Home
 	<a href="{{ site.url }}/everything-else" style="color: #303030">Everything Else</a>
 </h2>
 <div id="everything-else" class="l-middle">
-	<a href="{{ site.url }}/projects"><div>Projects</div></a>
-	<a href="{{ site.url }}/blog"><div>Blog</div></a>
+	<a href="{{ site.url }}/projects"><div>All Projects</div></a>
+	<a href="{{ site.url }}/blog"><div>Blogs</div></a>
     <a href="{{ site.url }}/useful-tools"><div>Useful Tools</div></a>
 </div>
 
