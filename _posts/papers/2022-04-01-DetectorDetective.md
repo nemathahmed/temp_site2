@@ -23,8 +23,8 @@ feature-description: "Interactive visualization tool for adversarial object dete
 image: /images/featured/22_cvpr_detectordetective.png
 featured: true
 feature-order: 6
-selected: true
-type: journal
+selected: false
+type: demo
 doi: 
 bibtex: |-
 

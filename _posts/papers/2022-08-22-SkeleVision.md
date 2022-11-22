@@ -20,7 +20,7 @@ image: /images/featured/22_eccv_skelevision.png
 featured: true
 feature-order: 5
 selected: true
-type: journal
+type: workshop
 doi: 
 bibtex: |-
 
