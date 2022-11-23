@@ -3,7 +3,7 @@
 <div><a href="{{ fund.name-url }}">{{ fund.name }}</a></div>
 
 <div class="cv-description">
-Co-PIs: 
+PIs: 
 {% for person in fund.co-pis %}
 	{% if forloop.last == false %}
 		{% include person.html person=person %},	
@@ -12,6 +12,7 @@ Co-PIs:
 	{% endif %}
 {% endfor %}
 </div>
+{% if fund.amount %}
 <div class="cv-description">Funded {{ fund.amount }}</div>
-
+{% endif %}
 <div class="cv-spacer"></div>
