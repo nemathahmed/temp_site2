@@ -1,5 +1,15 @@
+- venue: Signal Processing&#58; Image Communication
+  years:
+    - year: 2022
+      url: https://www.sciencedirect.com/journal/signal-processing-image-communication
+
+- venue: SN Applied Sciences
+  years:
+    - year: 2022
+      url: https://www.springer.com/journal/42452/
+
 - venue: Pattern Recognition
-  venue-shorthand: Pattern Recognit.
+  # venue-shorthand: Pattern Recognit.
   years:
     - year: 2020
       url: https://www.journals.elsevier.com/pattern-recognition
